@@ -12,11 +12,6 @@ This repository follows the implementation of "U-Net: Convolutional Networks for
 ![u-net-architecture](https://user-images.githubusercontent.com/71031687/113143484-7ab79500-922c-11eb-97b1-658dbde7f28c.png)
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
